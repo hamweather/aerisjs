@@ -34,6 +34,8 @@ require([
       'spec/aeris/errors',
       'spec/aeris/maps/base/extensions',
       'spec/aeris/maps/base/layers',
+      'spec/aeris/maps/base/markercollection',
+      'spec/aeris/maps/base/markercollections/apiendpoint',
       'spec/aeris/maps/gmaps/route'
       //'spec/integration/route',
       //'spec/integration/markers'
