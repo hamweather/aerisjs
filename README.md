@@ -10,9 +10,9 @@ Aeris.js
 
 # About Aeris.js
 
-The [Aeris Weather API](http://www.hamweather.com/support/documentation/aeris/) is one of the most complete and advanced weather APIs available and quickly gives you access to many different types of weather information. 
+The [Aeris Weather API](http://www.hamweather.com/support/documentation/aeris/) is one of the most complete and advanced weather APIs available.  It quickly gives you access to many different types of weather information. 
 
-Out of the box, Aeris.js provides a suite of tools for rendering weather maps and widgets, using data from the Aeris API. Maps can be rendered using the [Google Maps API](https://developers.google.com/maps/) or [OpenLayers](http://openlayers.org/).
+Out of the box Aeris.js uses data from the Aeris API to provide a suite of tools for rendering weather maps and widgets. Maps can be rendered using the [Google Maps API](https://developers.google.com/maps/) or [OpenLayers](http://openlayers.org/).
 
 Usage of the Aeris API requires an Aeris API developer account. Visit [hamweather.com](http://www.hamweather.com/products/aeris-api/pricing/) to sign up for a free account.
 
